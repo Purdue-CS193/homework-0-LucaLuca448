@@ -1,4 +1,4 @@
-#Justin's first CS193 Homework
+# Justin's first CS193 Homework
 
 Things I like about CS193:
 - Funny jokes on the slides
